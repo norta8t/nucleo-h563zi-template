@@ -6,13 +6,11 @@ This is a ready-to-use STM32CubeIDE project for the Nucleo-H563ZI board. Clone i
 
 1\. Clone the repo:
 
+~~~ 
+git clone https://github.com/norta8t/nucleo-h563zi-template.git your-project-name
 
-
-&nbsp;  git clone https://github.com/norta8t/nucleo-h563zi-template.git your-project-name
-
-&nbsp;  cd your-project-name
-
-
+cd your-project-name
+~~~
 
 2\. Open STM32CubeIDE.
 
@@ -28,9 +26,7 @@ This is a ready-to-use STM32CubeIDE project for the Nucleo-H563ZI board. Clone i
 
 6\. Flash and run: Connect your Nucleo board > Right-click project > \*\*Run As > STM32 Cortex-M C/C++ Application\*\*.
 
-
-
-\## Tips
+## Tips
 
 \- Add your code in `Src/User/` and `Inc/User/` to avoid overwriting generated files.
 
@@ -39,4 +35,3 @@ This is a ready-to-use STM32CubeIDE project for the Nucleo-H563ZI board. Clone i
 \- If paths break after rename, clean/rebuild (Project > Clean).
 
 \- Requires STM32CubeH5 package (install via Help > Manage Embedded Software Packages).
-
