@@ -11,9 +11,10 @@ This is a ready-to-use STM32CubeIDE project for the Nucleo-H563ZI board. Clone i
 3. Clone the repo (in Terminal/Powershell):
 
 ~~~
-cd /path/to/your/workspace # CTRL-V your path here
+# CTRL-V your path here
+cd /path/to/your/workspace 
 
-git clone https://github.com/norta8t/nucleo-h563zi-template.git your-project-name
+git clone https://github.com/norta8t/nucleo-h563zi-template.git
 ~~~
 
 4. Launch STM32CubeIDE.
@@ -22,11 +23,11 @@ git clone https://github.com/norta8t/nucleo-h563zi-template.git your-project-nam
 
 6. Rename the project (to avoid conflicts):
 
-- Right-click the project in Project Explorer > **Rename** > Enter your new name (e.g., `my-lab1`).
+  - Right-click the project in Project Explorer > **Rename** > Enter your new name (e.g., `my-lab1`).
 
-- Rename .ioc file (nucleo-h563zi-template.ioc) to match your project name, i.e. **your-project-name.ioc**
+  - Rename .ioc file (nucleo-h563zi-template.ioc) to match your project name, i.e. **your-project-name.ioc**
   
-- STM32CubeIDE will update paths automatically. If prompted, regenerate code from the `.ioc` file (but this is optional).
+  - STM32CubeIDE will update paths automatically. If prompted, regenerate code from the `.ioc` file (but this is optional).
 
 7. Build: **Project > Build Project**.
 
