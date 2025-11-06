@@ -44,6 +44,7 @@ git clone https://github.com/norta8t/nucleo-h563zi-template.git your-project-nam
 
 - If there are errors during the build process, run the powershell script `.\fix-paths.ps1` in the project folder
 
-LAP, 06.11.2025
-
 - Requires STM32CubeH5 package (install via Help > Manage Embedded Software Packages).
+
+
+LAP, 06.11.2025
