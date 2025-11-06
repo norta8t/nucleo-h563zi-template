@@ -1,0 +1,22 @@
+# Build outputs
+Debug/
+Release/
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+
+# IDE metadata (user-specific)
+.metadata/
+.settings/
+.cproject.user
+.launch
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# STM32CubeIDE specifics (regenerates)
+STM32CubeIDE/
