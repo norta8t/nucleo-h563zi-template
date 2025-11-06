@@ -10,7 +10,7 @@ This is a ready-to-use STM32CubeIDE project for the Nucleo-H563ZI board. Clone i
 
 3. Clone the repo (in Terminal/Powershell):
 
-*Note: The next step needs git installed on your computer. Source: https://git-scm.com/install/*
+   *Note: The next step needs git installed on your computer. Source: https://git-scm.com/install/*
 
 ~~~
 # CTRL-V your path here
