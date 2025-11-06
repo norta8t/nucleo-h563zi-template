@@ -1,14 +1,8 @@
-\# Nucleo-H563ZI STM32 Template Project
-
-
+# Nucleo-H563ZI STM32 Template Project
 
 This is a ready-to-use STM32CubeIDE project for the Nucleo-H563ZI board. Clone it, rename, and start coding!
 
-
-
-\## Quick Start
-
-
+## Quick Start
 
 1\. Clone the repo:
 
