@@ -26,7 +26,7 @@ git clone https://github.com/norta8t/nucleo-h563zi-template.git your-project-nam
    ● Right-click the project in Project Explorer > **Rename** > Enter your new name (e.g., `my-lab1`). <br><br>
      *Note: if the Ok button is grayed out, leave it as it is*
 
-   ● Rename .ioc file (nucleo-h563zi-template.ioc) to match your project name, i.e. **your-project-name.ioc**
+   ● Rename .ioc file (nucleo-h563zi-template.ioc) if necessary to match your project name, i.e. **your-project-name.ioc**
   
    ● STM32CubeIDE will update paths automatically. If prompted, regenerate code from the `.ioc` file (but this is optional).
 
