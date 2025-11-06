@@ -29,11 +29,6 @@ cd your-project-name
 6. Flash and run: Connect your Nucleo board > Right-click project > **Run As > STM32 Cortex-M C/C++ Application**.
 
 ## Tips
-
-- Add your code in `Src/User/` and `Inc/User/` to avoid overwriting generated files.
-
 - To reconfigure pins/clocks: Double-click `nucleo-h563zi-template.ioc` > Make changes > Generate Code.
-
 - If paths break after rename, clean/rebuild (Project > Clean).
-
 - Requires STM32CubeH5 package (install via Help > Manage Embedded Software Packages).
