@@ -6,7 +6,9 @@ This is a ready-to-use STM32CubeIDE project for the Nucleo-H563ZI board. Clone i
 
 1\. Clone the repo:
 
-~~~ 
+~~~
+cd /path/to/your/workspace
+
 git clone https://github.com/norta8t/nucleo-h563zi-template.git your-project-name
 
 cd your-project-name
