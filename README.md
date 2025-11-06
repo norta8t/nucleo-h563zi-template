@@ -38,4 +38,6 @@ git clone https://github.com/norta8t/nucleo-h563zi-template.git your-project-nam
 
 - If paths break after rename, clean/rebuild (Project > Clean).
 
+- If there are errors during the build process, run the powershell script `.\fix-paths.ps1` in the project folder
+
 - Requires STM32CubeH5 package (install via Help > Manage Embedded Software Packages).
