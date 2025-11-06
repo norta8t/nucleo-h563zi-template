@@ -16,11 +16,11 @@ cd your-project-name
 
 2. Open STM32CubeIDE.
 
-3. Import the project: \*\*File > Import > General > Existing Projects into Workspace\*\* > Browse to the cloned folder > Select `nucleo-h563zi-template` > Finish.
+3. Import the project: **File > Import > General > Existing Projects into Workspace** > Browse to the cloned folder > Select `nucleo-h563zi-template` > Finish.
 
 4. Rename the project (to avoid conflicts):
 
-- Right-click the project in Project Explorer > **Refactor > Rename** > Enter your new name (e.g., `my-lab1`).
+- Right-click the project in Project Explorer > **Rename** > Enter your new name (e.g., `my-lab1`).
 
 - STM32CubeIDE will update paths automatically. If prompted, regenerate code from the `.ioc` file (but this is optional).
 
