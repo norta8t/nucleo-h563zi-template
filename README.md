@@ -35,17 +35,17 @@ git clone https://github.com/norta8t/nucleo-h563zi-template.git your-project-nam
 
 ## Tips
 
-- If there is a yellow exclamation mark next to the projects IDE icon in the Project Explorer:
+● If there is a yellow exclamation mark next to the projects IDE icon in the Project Explorer:
 
   1. Right click on Project > Resource > Change Text file encoding to Other: UTF-8
 
-- To reconfigure pins/clocks: Double-click `nucleo-h563zi-template.ioc` > Make changes > Generate Code.
+● To reconfigure pins/clocks: Double-click `nucleo-h563zi-template.ioc` > Make changes > Generate Code.
 
-- If paths break after rename, clean/rebuild (Project > Clean).
+● If paths break after rename, clean/rebuild (Project > Clean).
 
-- If there are errors during the build process, run the powershell script `.\fix-paths.ps1` in the project folder
+● If there are errors during the build process, run the powershell script `.\fix-paths.ps1` in the project folder
 
-- Requires STM32CubeH5 package (install via Help > Manage Embedded Software Packages).
+● Requires STM32CubeH5 package (install via Help > Manage Embedded Software Packages).
 
 
 LAP, 06.11.2025
